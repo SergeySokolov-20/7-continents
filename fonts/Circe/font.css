@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Circe-Light';
+  src: url('Circe-Light.eot');
+  src: url('Circe-Light.eot?#iefix') format('embedded-opentype'),
+       url('Circe-Light.svg#Circe-Light') format('svg'),
+       url('Circe-Light.ttf') format('truetype'),
+       url('Circe-Light.woff') format('woff'),
+       url('Circe-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
